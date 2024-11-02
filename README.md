@@ -1,4 +1,4 @@
-## Hello there 👋 welcome to my Github! I'm passionate about creating projects to be #### ~~lazy~~ ## more productive! 
+## Hello there 👋 welcome to my Github! I'm passionate about creating projects to be ~~lazy~~ more productive! 
 
 <!--
 **jrcovell/jrcovell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
